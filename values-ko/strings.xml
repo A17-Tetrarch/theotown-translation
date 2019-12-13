@@ -2,7 +2,7 @@
     <string name="app_name">TheoTown</string>
     <string name="settings_title">설정</string>
     <string name="loadcity_title">도시 불러오기</string>
-    <string name="createcity_title">도시 새로만들기</string>
+    <string name="createcity_title">도시 새로 만들기</string>
     <string name="settings_defaults">설정 초기화</string>
     <string name="settings_apply">적용</string>
     <string name="createcity_mapsize">크기 : </string>
@@ -22,18 +22,18 @@
     <string name="game_habitants">인구: %1$,d</string>
     <string name="game_cityname">%1$s</string>
     <string name="createcity_seed">지형 시드:</string>
-    <string name="createcity_sizesmall">작음</string>
+    <string name="createcity_sizesmall">좁음</string>
     <string name="createcity_sizemiddle">중간</string>
-    <string name="createcity_sizebig">큼</string>
+    <string name="createcity_sizebig">넓음</string>
     <string name="createcity_sizeother">기타</string>
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">재정: %1$s</string>
     <string name="game_rating">%1$,d</string>
-    <string name="settings_resolutionlowlow">매우 작음</string>
-    <string name="settings_resolutionlow">작음</string>
+    <string name="settings_resolutionlowlow">매우 낮음</string>
+    <string name="settings_resolutionlow">낮음</string>
     <string name="settings_resolutionnormal">보통</string>
-    <string name="settings_resolutionbig">큼</string>
-    <string name="settings_resolutionbigbig">매우 큼</string>
+    <string name="settings_resolutionbig">높음</string>
+    <string name="settings_resolutionbigbig">매우 높음</string>
     <string name="settings_resolution">해상도</string>
     <string name="dialog_nocities_title">어떠한 도시도 찾을 수 없음.</string>
     <string name="dialog_nocities_text">저장된 도시가 없음.</string>
@@ -153,7 +153,7 @@
     <string name="draft_management00_title">경찰서</string>
     <string name="draft_management00_text">더욱 발전된 치안을 위해.</string>
     <string name="draft_firedepartment00_title">소방서</string>
-    <string name="draft_firedepartment00_text">화제을 예방하고 진압합니다. 2대의 소방차와 적절한 관할구역을 가집니다.</string>
+    <string name="draft_firedepartment00_text">화재를 예방하고 진압합니다. 2대의 소방차와 적절한 관할구역을 가집니다.</string>
     <string name="draft_statue00_title">동상</string>
     <string name="draft_statue00_text">시장의 동상입니다.</string>
     <string name="draft_gillender00_title">질렌더 빌딩</string>
@@ -234,7 +234,7 @@
     <string name="buildinginfo_habitants">주민: %1$,d/%2$,d 명</string>
     <string name="buildinginfo_worker">사원: %1$,d/%2$,d 명</string>
     <string name="topic_giveup">포기하지 마세요! 포기는 배추 샐 때나 사용하는 단어입니다!</string>
-    <string name="dialog_screenshot_error">%1$s을 저장할 사진 저장 폴더를 만들 수 없습니다. 앱 권한을 확인해 주십시오.</string>
+    <string name="dialog_screenshot_error">%1$s을 저장할 사진 저장 폴더를 만들 수 없습니다. 앱 권한을 확인해 주세요.</string>
     <string name="settings_energysaving">절전 모드</string>
     <string name="about_idea">아이디어 제공</string>
     <string name="about_programming">프로그래머</string>
@@ -277,7 +277,7 @@
     <string name="draftselector_titleview">보기</string>
     <string name="toolremove_default_title">철거</string>
     <string name="toolremove_default_text">이 도구로 구역, 지하구조물을 제외한 모든 것을 갈아엎을 수 있습니다. 으-갸-갹!</string>
-    <string name="toolremove_pipe_text">이 도구는 수도관를 철거하는데 쓰입니다.</string>
+    <string name="toolremove_pipe_text">이 도구는 수도관을 철거하는데 쓰입니다.</string>
     <string name="toolremove_pipe_title">파이프 제거</string>
     <string name="draftselector_cmdremove">철거</string>
     <string name="draftselector_cmdview">보기</string>
@@ -359,7 +359,7 @@
     <string name="notify_requirementupgrade">축하드려요. %2$s (을)를 위한 %1$s 개의 업그레이드를 해제했습니다!</string>
     <string name="draftselector_titlesports">스포츠</string>
     <string name="draftselector_titlealert">비상상황</string>
-    <string name="notify_fire">으어어어어 불이야! 화재진화를 위해 소방대를 보내세요! 또한 더많은 소방서를 건설하는 것도 고려하세요!</string>
+    <string name="notify_fire">으어어어어 불이야! 화재 진화를 위해 소방대를 보내세요! 또한 더 많은 소방서를 건설하는 것도 고려하세요!</string>
     <string name="notify_pollution">오염이 너무 심합니다!</string>
     <string name="draft_radio00_title">라디오 방송국</string>
     <string name="draft_radio00_text">시민들은 라디오 프로그램을 좋아할 것입니다.</string>
@@ -396,7 +396,7 @@
     <string name="settings_carsimulation">자동차 시물레이션</string>
     <string name="settings_weather">날씨</string>
     <string name="topic_christmas">메리 크리스마스!</string>
-    <string name="topic_newyear">새해복 많이받으세요!</string>
+    <string name="topic_newyear">새해 복 많이 받으세요!</string>
     <string name="topic_birthday_lobby">Lobby, 생일 축하합니다! :)</string>
     <string name="topic_birthday_theo">theo, 생일 축하합니다! :)</string>
     <string name="topic_np">P집합과 NP집합이 같을까요?</string>
@@ -406,21 +406,21 @@
 \n
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_radio00_sport_title">스포츠 FM</string>
-    <string name="draft_radio00_sport_text">스포츠 소식과 흥미진진한 경기 생중계를 송출합니다. 먼거리에 스포츠 효과를 발휘합니다.
+    <string name="draft_radio00_sport_text">스포츠 소식과 흥미진진한 경기 생중계를 송출합니다. 넓은 범위의 스포츠 효과를 발휘합니다.
 \n
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_radio00_fun_title">꿀잼 라디오</string>
-    <string name="draft_radio00_fun_text">대부분 음악과 예능프로를 송출합니다. 청취자들이 좋아할 것입니다. 장거리에 공원 효과를 발휘합니다.
+    <string name="draft_radio00_fun_text">대부분 음악과 예능프로를 송출합니다. 청취자들이 좋아할 것입니다. 넓은 범위의 공원 효과를 발휘합니다.
 \n
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_radio00_faith_title">신앙 토크</string>
-    <string name="draft_radio00_faith_text">만물과 우리의 존재에 대한 설교를 송출합니다. 기본적으로 먼거리에 종교 효과를 발휘합니다.
+    <string name="draft_radio00_faith_text">만물과 우리의 존재에 대한 설교를 송출합니다. 기본적으로 넓은 범위의 종교 효과를 발휘합니다.
 \n
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_lighthouse00_title">등대</string>
     <string name="draft_lighthouse00_text">저 멀리에도 배가 없습니다. 그러나 이곳에는 등대가 있습니다... 이상합니다.</string>
     <string name="draft_road02_title">2차로 고속도로</string>
-    <string name="draft_road02_text">두 지역을 잇는 가장 빠른 연결입니다.</string>
+    <string name="draft_road02_text">두 지역을 잇는 가장 빠른 연결 수단입니다.</string>
     <string name="budget_road">도로</string>
     <string name="topic_birthday_phoenix">Phoenix, 생일 축하합니다. :)</string>
     <string name="topic_birthday_lucasking">Lucas, 생일 축하합니다. :)</string>
@@ -440,7 +440,7 @@
     <string name="tutorial_buildwater_b">표시된 장소에 건설하세요.</string>
     <string name="tutorial_buildwater_c">완벽합니다!</string>
     <string name="tutorial_buildpipe_a">급수탑으로는 충분하지 않습니다. 수도관을 통해 물을 공급해야만 합니다.</string>
-    <string name="tutorial_buildpipe_b">표시된 칸에 수도관를 설치하세요.</string>
+    <string name="tutorial_buildpipe_b">표시된 칸에 수도관을 설치하세요.</string>
     <string name="tutorial_buildpipe_c">아주 좋습니다! 이제 구역을 지정할 수 있습니다.</string>
     <string name="tutorial_buildzones">구역은 시민들이 어떤 종류의 건물을 지을지 지정한 것입니다. 3가지 종류가 있습니다.</string>
     <string name="tutorial_buildresidential_a">주거구역을 지정해 봅시다. 시민들은 이곳에 집을 지을 수 있습니다.</string>
@@ -456,7 +456,7 @@
     <string name="tutorial_rci">이것을 눌러서 여러 구역들에 대해서 자세한 수요정보를 확인할 수 있습니다.</string>
     <string name="tutorial_speed_fast">대기시간을 줄이기 위해서 시물레이션 속도를 변경할 수도 있습니다.</string>
     <string name="tutorial_speed_normal">이제 다시 원래의 속도로 맞추세요.</string>
-    <string name="tutorial_money_task">당신의 임무는 이 도시를 세금으로 얻은 돈으로서 발선시켜 나가는 것입니다.</string>
+    <string name="tutorial_money_task">당신의 임무는 이 도시를 세금으로 얻은 돈으로 발전시켜 나가는 것입니다.</string>
     <string name="tutorial_money_info">우측 하단의 버튼을 눌러서 재정과 세율에 대한 자세한 정보를 확인할 수 있습니다.</string>
     <string name="tutorial_congrats">축하합니다! Theotown의 기본을 모두 배웠습니다. 이젠 당신만의 도시를 시작할 수 있습니다. :)</string>
     <string name="draft_road03_title">일방 통행 도로</string>
@@ -473,7 +473,7 @@
     <string name="settings_disaster_flooding">홍수</string>
     <string name="settings_disaster_godzilla">고질라</string>
     <string name="settings_disaster_auto">재난 자연 발생</string>
-    <string name="notify_firenodp">화재가 발생했습니다! 화제진압을 위해 소방서를 건설하세요.</string>
+    <string name="notify_firenodp">화재가 발생했습니다! 화재 진압을 위해 소방서를 건설하세요.</string>
     <string name="draft_destroyedtile_title">구조물 잔해</string>
     <string name="draft_destroyedtile_text">구조물 잔해입니다. 반드시 철거되어야만 합니다.</string>
     <string name="disaster_fire_title">화재</string>
@@ -502,17 +502,17 @@
     <string name="draft_crater4x4_title">운석 구덩이</string>
     <string name="draft_crater4x4_text">커다란 운석 구덩이. 반드서 철거해야 합니다.</string>
     <string name="draft_crater1x1_title">운석 구덩이</string>
-    <string name="draft_crater1x1_text">작은 운석 구덩이. 반드서 철거해야 합니다.</string>
+    <string name="draft_crater1x1_text">작은 운석 구덩이. 반드시 철거해야 합니다.</string>
     <string name="settings_disaster_nuke">핵폭탄</string>
     <string name="disaster_nuke_title">핵폭발</string>
-    <string name="disaster_nuke_text">대채로 무해한듯 보이네요.</string>
-    <string name="disaster_nuke_cmdtext">시도해보기</string>
+    <string name="disaster_nuke_text">대체로 무해해 보이네요.</string>
+    <string name="disaster_nuke_cmdtext">시도해 보기</string>
     <string name="budget_loans">대출</string>
     <string name="ci_loan_loanlist">활성화된 대출 (%3$,d개중 %2$,d 대출중, 총 %1$s):</string>
     <string name="ci_loan_remaining_runtime">대출금 상환 기간: %2$,d 개월, %1$,d 일 남음. </string>
     <string name="ci_loan_paybackcost">대출 상환금: %1$s</string>
     <string name="ci_loan_estate">재정: %1$s</string>
-    <string name="topic_support_ads">광고를 누르는 것만으로 저희를 도울 수 있습니다. :)</string>
+    <string name="topic_support_ads">광고를 누르는 것만으로도 저희를 도울 수 있습니다. :)</string>
     <string name="settings_disaster_tornado">토네이도</string>
     <string name="disaster_tornado_title">토네이도</string>
     <string name="disaster_tornado_text">토네이도는 도시의 가장 큰 위험입니다.</string>
@@ -569,11 +569,11 @@
     <string name="influence_education_low_text">초등학교와 중학교는 비교적 낮은 단계의 교육을 제공합니다.</string>
     <string name="influence_education_high_text">고등학교는 비교적 높은 단계의 교육을 제공합니다.</string>
     <string name="influence_firedep_text">소방서는 화재 발생 가능성을 낮춰주는데 영향을 미칩니다.</string>
-    <string name="influence_health_text">의사는 시민을 건강을 유지할 수 있도록 도와줍니다.</string>
-    <string name="influence_noise_text">소음이 심한 지역에서는 아무도 살고싶지 않을 겁니다.</string>
-    <string name="influence_park_text">시민를 행복하게 하고 건물 밀집도를 높일 수 있습니다.</string>
+    <string name="influence_health_text">의사는 시민이 건강을 유지할 수 있도록 도와줍니다.</string>
+    <string name="influence_noise_text">소음이 심한 지역에서는 아무도 살고 싶지 않을 겁니다.</string>
+    <string name="influence_park_text">시민을 행복하게 하고 건물 밀집도를 높일 수 있습니다.</string>
     <string name="influence_police_text">범죄가 일어나지 않도록 하십시오.</string>
-    <string name="influence_pollution_text">오염이 심한 지역에서는 아무도 살고싶지 않을 겁니다.</string>
+    <string name="influence_pollution_text">오염이 심한 지역에서는 아무도 살고 싶지 않을 겁니다.</string>
     <string name="influence_religion_text">종교는 시민들의 행복도를 증가시킵니다.</string>
     <string name="influence_sport_text">시민들의 건강을 책임집니다.</string>
     <string name="draftselector_cmdShow">보이기</string>
@@ -1406,7 +1406,7 @@
     <string name="draft_ufo_crater00_title">이상한 것</string>
     <string name="draft_ufo_crater00_text">땅에 이상한 것이 처박힌 것처럼 보이네요. 처리하는 편이 더 나을듯 합니다.</string>
     <string name="draft_destroyedtileradioactive00_title">잔해</string>
-    <string name="draft_destroyedtileradioactive00_text">방사성 파괴된 구조물. 반드시 처리해야만 합니다.</string>
+    <string name="draft_destroyedtileradioactive00_text">방사성을 띄는 파괴된 구조물. 반드시 처리해야만 합니다.</string>
     <string name="settings_disaster_ufo">UFO</string>
     <string name="dialog_externalstorage_text">TheoTown은 진행내용을 저장하기 위해서 외부저장공간에 접근해야만 합니다.</string>
     <string name="dialog_externalstorage_cancel">취소</string>
